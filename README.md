@@ -1,9 +1,9 @@
 <h1>iBurger-delivery-app</h1>
 
 <h2>📋 Sobre</h2>
-<p>Aplicativo front end para vendas de fast food ou guloseimas, enviando pedido direto para o whatsapp do proprietario</p>
+<p>Aplicativo front end para vendas de fast food ou guloseimas, enviando pedido direto para o whatsapp do proprietario.</p>
 
-## 🦾 Tecnologias
+## 🦾 Tecnologias usadas
 
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style-for-the-badge&logo=html5&logoColor=white">
@@ -13,7 +13,10 @@
 
 </div>
 
-
+## 💻 Acesso à aplicação
+<div>
+  https://docim-doceria-delivery-app.vercel.app/
+</div>
 
 
 ## 👤 Autor
